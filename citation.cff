@@ -1,0 +1,8 @@
+@software{ML_for_plasmas_2022,
+  author = {Bonzanini, Angelo Domenico and Shao, Ketong and Mesbah, Ali},
+  month = {6},
+  title = {{Foundations of Machine Learning for Low-temperature
+Plasmas: A Tutorial}},
+  url = {https://github.com/adbonzanini/ML-for-plasmas},
+  year = {2022}
+}
