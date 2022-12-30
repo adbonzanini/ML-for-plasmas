@@ -1,3 +1,4 @@
 Defect_Classification/cnn_model_trained/
 .ipynb_checkpoints/
 *.drawio
+*.DS_Store
